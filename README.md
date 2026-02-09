@@ -169,8 +169,8 @@ Add monitoring and logging
 👤 Author
 
 Shreya Lakhera
-LinkedIn: 
-GitHub: 
+LinkedIn: https://www.linkedin.com/in/shreya-lakhera-7895ab28b/
+GitHub: https://github.com/Shreya9808
 
 ✅ This version is now perfectly aligned with:
 
@@ -179,3 +179,4 @@ GitHub:
 ✔ Supabase focus
 ✔ API clarity
 ✔ security awareness
+
