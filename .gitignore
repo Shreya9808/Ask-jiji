@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore npm cache directory
+.npmrc
+package-lock.json
+npm-debug.log*
+yarn-error.log*
+
+# Ignore macOS files
+.DS_Store
+__pycache__
+
+# Ignore Linux files
+*.so
+*.swp
+*.swo
+
+# Ignore Windows files
+Thumbs.db
